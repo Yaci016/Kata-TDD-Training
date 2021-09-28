@@ -2,11 +2,11 @@ export const rot13 = (str: string): string => {
   const alphabetMin = "abcdefghijklmnopqrstuvwxyz";
   const alphabetMaj = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-  let temp;
-  let result = "";
+  let temp: string = "";
+  let result: string = "";
   for (let i = 0; i < str.length; i++) {
-    let indexMin = alphabetMin.indexOf(str[i]);
-    let indexMaj = alphabetMaj.indexOf(str[i]);
+    let indexMin: number = alphabetMin.indexOf(str[i]);
+    let indexMaj: number = alphabetMaj.indexOf(str[i]);
 
     if (/[a-z]/.test(str[i])) {
       indexMin += 13;
