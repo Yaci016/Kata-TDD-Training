@@ -12,4 +12,4 @@
 
 ## About The Project
 
-This is a repository to save the code katas i did while practicing TDD.
+This is a directory that lists the code katas i did while practicing TDD.
