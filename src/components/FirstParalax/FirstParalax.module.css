@@ -1,0 +1,111 @@
+.leverDeRideau.leverDeRideau {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: -0.1946%;
+  width: initial;
+  height: initial;
+}
+.background.background {
+  background-image:/* webpackIgnore: true */ url('assets/background2.png');
+}
+.bruit.bruit {
+  background-image:/* webpackIgnore: true */ url('assets/bruit25.png');
+}
+.bruit2.bruit2 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit26.png');
+}
+.bruit3.bruit3 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit27.png');
+}
+.bruit4.bruit4 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit28.png');
+}
+.bruit5.bruit5 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit29.png');
+}
+.bruit6.bruit6 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit30.png');
+}
+.bruit7.bruit7 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit31.png');
+}
+.bruit8.bruit8 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit32.png');
+}
+.bruit9.bruit9 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit33.png');
+}
+.bruit10.bruit10 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit34.png');
+}
+.bruit11.bruit11 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit35.png');
+}
+.bruit12.bruit12 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit36.png');
+}
+.bruit13.bruit13 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit37.png');
+}
+.bruit14.bruit14 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit38.png');
+}
+.bruit15.bruit15 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit39.png');
+}
+.bruit16.bruit16 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit40.png');
+}
+.bruit17.bruit17 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit41.png');
+}
+.bruit18.bruit18 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit42.png');
+}
+.bruit19.bruit19 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit43.png');
+}
+.image.image {
+  background-image:/* webpackIgnore: true */ url('assets/image3.png');
+}
+.image2.image2 {
+  background-image:/* webpackIgnore: true */ url('assets/image4.png');
+}
+.bruit20.bruit20 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit44.png');
+}
+.bruit21.bruit21 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit45.png');
+}
+.bruit22.bruit22 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit46.png');
+}
+.bruit23.bruit23 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit47.png');
+}
+.bruit24.bruit24 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit48.png');
+}
+.hero.hero {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 80.8951%;
+  width: initial;
+  height: initial;
+}
+.background2.background2 {
+  background-image:/* webpackIgnore: true */ url('assets/background4.png');
+}
+.bruit25.bruit25 {
+  background-image:/* webpackIgnore: true */ url('assets/bruit50.png');
+}
+.root {
+  position: relative;
+  width: 1920px;
+  height: 5653px;
+  align-items: flex-start;
+}

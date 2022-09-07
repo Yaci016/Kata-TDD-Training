@@ -1,0 +1,211 @@
+.root {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  align-items: flex-start;
+  background-color: #fff0dc;
+  overflow: hidden;
+}
+.background {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+  background-image:/* webpackIgnore: true */ url('assets/background3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo {
+  position: absolute;
+  left: 394px;
+  top: 192px;
+  width: 1133px;
+  height: 495.3428px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.union {
+  position: absolute;
+  left: 0;
+  top: 74px;
+  width: 2108px;
+  height: 1459px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.bruit {
+  opacity: 0.1;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+  background-image:/* webpackIgnore: true */ url('assets/bruit49.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cTA {
+  position: absolute;
+  left: 765px;
+  top: 767px;
+  width: min-content;
+  height: 120px;
+  align-items: center;
+  padding: 0 100px;
+  border-radius: 60px;
+  background-color: #d3579f;
+}
+.assisterAuSpectacle {
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff0dc;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff0dc;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.path {
+  position: absolute;
+  left: 899.5px;
+  top: 929px;
+  width: 621.6323px;
+  height: 840.5px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.nav {
+  position: absolute;
+  left: 549px;
+  top: 88px;
+  width: min-content;
+  height: min-content;
+  place-content: flex-end;
+  align-items: flex-start;
+  gap: 30px;
+}
+.leverDeRideau {
+  color: #fff0dc;
+  font-size: 20px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ateliers {
+  color: #fff0dc;
+  font-size: 20px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.surmonterSaPeur {
+  color: #fff0dc;
+  font-size: 20px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.derriereLeRideau {
+  color: #fff0dc;
+  font-size: 20px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.spectacle {
+  color: #fff0dc;
+  font-size: 20px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.enCoulisse {
+  color: #fff0dc;
+  font-size: 20px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fin {
+  color: #fff0dc;
+  font-size: 20px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cTASound {
+  position: absolute;
+  left: 1718px;
+  top: 80px;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+}
+.sound {
+  color: #fff0dc;
+  font-size: 16px;
+  font-family: Ivar Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cTASound2 {
+  width: 50px;
+  height: 40px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
